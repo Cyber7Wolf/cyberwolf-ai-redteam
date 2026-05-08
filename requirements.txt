@@ -1,0 +1,15 @@
+# Core dependencies
+requests>=2.31.0
+rich>=13.7.0
+flask>=3.0.0
+jinja2>=3.1.0
+
+# Optional for local LLM
+ollama>=0.1.0
+
+# Optional for PDF export
+weasyprint>=60.0
+reportlab>=4.0.0
+
+# Optional for email
+secure-smtplib>=0.1.0
